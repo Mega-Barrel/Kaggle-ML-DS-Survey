@@ -116,7 +116,87 @@ In our fourth year running this survey, we were once again awed by the global, d
 ![26_A](Viz_images/Question_26_part_A.png)
 <br>
 
-#### **Question 26 Part-B: Which of the following cloud computing platforms do you use on a regular basis?**
+#### **Question 26 Part-B: Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years?**
 ![26_B](Viz_images/Question_26_part_B.png)
 <br>
 
+#### **Question 27 Part-A: Do you use any of the following cloud computing products on a regular basis?**
+![27_a](Viz_images/Question_27_part_a.png)
+<br>
+
+#### **Question 27 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products?**
+![27_b](Viz_images/Question_27_part_b.png)
+<br>
+
+#### **Question 28 Part-A: Do you use any of the following machine learning products on a regular basis?**
+![28_a](Viz_images/Question_28_part_a.png)
+<br>
+
+#### **Question 28 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific machine learning products?**
+![28_b](Viz_images/Question_28_part_b.png)
+<br>
+
+#### **Question 29 Part-A: Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis?**
+![29_a](Viz_images/Question_29_part_a.png)
+<br>
+
+#### **Question 29 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific machine learning products?**
+![29_b](Viz_images/Question_29_part_b.png)
+<br>
+
+#### **Question 30: Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?**
+![30](Viz_images/Question_30.png)
+<br>
+
+#### **Question 31 Part-A: Which of the following business intelligence tools do you use on a regular basis?**
+![31_a](Viz_images/Question_31_A.png)
+<br>
+
+#### **Question 31 Part-B: Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years?**
+![31_b](Viz_images/Question_31_B.png)
+<br>
+
+#### **Question 32: Which of the following business intelligence tools do you use most often?**
+![32](Viz_images/Question_32.png)
+<br>
+
+#### **Question 33 Part-A: Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?**
+![33_a](Viz_images/Question_33_part_A.png)
+<br>
+
+#### **Question 33 Part-B: Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?**
+![33_b](Viz_images/Question_33_part_B.png)
+<br>
+
+#### **Question 34 Part-A: Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?**
+![34_a](Viz_images/Question_34_part_A.png)
+<br>
+
+#### **Question 34 Part-B: Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?**
+![34_b](Viz_images/Question_34_part_B.png)
+<br>
+
+#### **Question 35 Part-A: Do you use any tools to help manage machine learning experiments?**
+![35_a](Viz_images/Question_35_part_A.png)
+<br>
+
+#### **Question 35 Part-B: In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments?**
+![35_b](Viz_images/Question_35_part_B.png)
+<br>
+
+#### **Question 36: Where do you publicly share or deploy your data analysis or machine learning applications?**
+![36](Viz_images/Question_36.png)
+<br>
+
+#### **Question 37: On which platforms have you begun or completed data science courses?**
+
+![37](Viz_images/Question_37.png)
+<br>
+
+#### **Question 38: What is the primary tool that you use at work or school to analyze data?**
+![38](Viz_images/Question_38.png)
+<br>
+
+#### **Question 39: Who/what are your favorite media sources that report on data science topics?**
+![39](Viz_images/Question_39.png)
+<br>

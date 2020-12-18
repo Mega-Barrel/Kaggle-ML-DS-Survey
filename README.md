@@ -121,27 +121,27 @@ In our fourth year running this survey, we were once again awed by the global, d
 <br>
 
 #### **Question 27 Part-A: Do you use any of the following cloud computing products on a regular basis?**
-![27_a](Viz_images/Question_27_part_a.png)
+![27_a](Viz_images/Question_27_part_A.png)
 <br>
 
 #### **Question 27 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products?**
-![27_b](Viz_images/Question_27_part_b.png)
+![27_b](Viz_images/Question_27_part_B.png)
 <br>
 
 #### **Question 28 Part-A: Do you use any of the following machine learning products on a regular basis?**
-![28_a](Viz_images/Question_28_part_a.png)
+![28_a](Viz_images/Question_28_part_A.png)
 <br>
 
 #### **Question 28 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific machine learning products?**
-![28_b](Viz_images/Question_28_part_b.png)
+![28_b](Viz_images/Question_28_part_B.png)
 <br>
 
 #### **Question 29 Part-A: Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis?**
-![29_a](Viz_images/Question_29_part_a.png)
+![29_a](Viz_images/Question_29_part_A.png)
 <br>
 
 #### **Question 29 Part-B: In the next 2 years, do you hope to become more familiar with any of these specific machine learning products?**
-![29_b](Viz_images/Question_29_part_b.png)
+![29_b](Viz_images/Question_29_part_B.png)
 <br>
 
 #### **Question 30: Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?**

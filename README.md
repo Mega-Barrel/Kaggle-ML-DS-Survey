@@ -200,3 +200,6 @@ In our fourth year running this survey, we were once again awed by the global, d
 #### **Question 39: Who/what are your favorite media sources that report on data science topics?**
 ![39](Viz_images/Question_39.png)
 <br>
+
+<p style="text-align: center;">Hope You Liked this Visualization </p>
+<p style="text-align: center;"> 😀 😄 😃 </p>
